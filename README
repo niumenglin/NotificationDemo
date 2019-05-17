@@ -1,0 +1,16 @@
+Androido O（8.0）Notification兼容解决方案
+
+1.Android O(8.0)通知的改变
+
+2.Android Channel通知的兼容适配
+
+3.Android Channel通知的应用与管理（更新，删除）
+  通知更新（模仿下载进度条）
+
+4.自定义Channel通知栏
+  步骤1：搭建自定义通知的布局
+  步骤2：绑定通知的数据和事件
+  步骤3：自定义通知栏交互
+
+5.Channel通知栏通知的交互
+
